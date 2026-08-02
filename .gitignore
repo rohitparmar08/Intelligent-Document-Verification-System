@@ -10,3 +10,20 @@ __pycache__/
 
 # Environment Variables
 .env
+
+# Django
+db.sqlite3
+
+# Uploaded Files
+media/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Generated Reports
+*.pdf
+*.json
